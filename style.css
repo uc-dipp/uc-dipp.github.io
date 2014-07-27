@@ -1,19 +1,18 @@
 body {
 	margin: 100px;
-	background: #ff9999;
+	background: #cccccc;
 	font-family: “Trebuchet MS”, Verdana, Arial, serif;
 }
 
 
-a {
-	color: #AC1F24;
-	a.link {color: #009900;}
-	a.visited {color: #999999;}
-	a.hover {color: #333333;}
-	a.focus {color: #333333;}
-	a.active {color: #009900;}
+a { 
+
+	color: #cc0000;
+
 	
 }
+
+
 
 p {
 	font: Geneva;
@@ -38,7 +37,7 @@ p {
 }
 
 h3 {
-	color:#27ae60;
+	color:#cc0000;
 	font-family:  Geneva, Tahoma, Verdana, sans-serif;
 }
 
