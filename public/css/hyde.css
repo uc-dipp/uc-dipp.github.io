@@ -73,12 +73,18 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  opacity: 0.7;
+  transition: opacity 0.25s;
+}
+
+.sidebar a:hover {
+	text-decoration: none;
+	opacity: 1;
 }
 
 .sidebar img:hover {
 	opacity: 0.9;
 }
-
 
 /* About section */
 .sidebar-about h1 {
@@ -96,9 +102,13 @@ html {
 .sidebar-nav-item {
   display: block;
 }
+.sidebar-nav-item a {	
+  padding: 0.2rem;
+  margin: -0.2rem;
+}
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -173,6 +183,7 @@ a.sidebar-nav-item:focus {
 
 
 
+
 /*
  * Themes
  *
@@ -184,7 +195,7 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #800000;
+  background-color: #800000;  /* uchicago maroon */
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
