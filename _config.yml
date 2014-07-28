@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'DiPP'
+title:            'Data in Public Policy'
 tagline:          'Data in Public Policy'
-description:      'A student organization at the Harris School focused on the intersection of data and public policy.'
-url:              http://hyde.getpoole.com
+description:      'Data in Public Policy (DiPP) is a student organization at the <a href="http://harrisschool.uchicago.edu" target="_blank">Harris School</a> focused on the intersection of data and public policy.'
+url:              http://uc-dipp.github.io
 baseurl:          /
 author:
   name:           'Data in Public Policy'

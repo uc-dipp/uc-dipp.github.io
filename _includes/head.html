@@ -4,7 +4,9 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
+	{% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
   <title>
     {% if page.title %}
       {{ page.title }} &middot; {{ site.title }}
