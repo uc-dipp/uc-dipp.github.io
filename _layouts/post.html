@@ -21,7 +21,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-    {% if page.comments != True %} <!-- for the life of me i don't know why this condition only works if reversed -->
+    {% if page.comments == true %} <!-- for the life of me i don't know why this condition only works if reversed -->
 		{% include comments.html %}
 	{% endif %}
 </div>

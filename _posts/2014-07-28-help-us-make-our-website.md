@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Help us make our website!
-comments: True
+comments: true
+permalink: help-us-make-our-website
 ---
 
 All of YOU are DiPP. So show your DiPP love and devotion by helping to build the website. It's built with Jekyll and Poole on [GitHub](https://github.com/uc-dipp/uc-dipp.github.io).
