@@ -7,7 +7,6 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
-
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -22,4 +21,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+    {% if page.comments != True %} <!-- for the life of me i don't know why this condition only works if reversed -->
+		{% include comments.html %}
+	{% endif %}
 </div>
