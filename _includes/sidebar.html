@@ -1,7 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <img src="/logo.png" width="120" height="120" />
       <h1>{{ site.title }}</h1>
+      <h3 style="color:#fff;">{{ site.tagline }}</h3>
       <p class="lead">{{ site.description }}</p>
     </div>
 
@@ -27,8 +29,7 @@
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="http://harrisschool.uchicago.edu">The Harris School</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
-      <li class="sidebar-nav-item">Find us on <a href="https://github.com/uc-dipp">GitHub</a></li>
+      <li class="sidebar-nav-item">Find us on <a href="{{ site.github.repo }}">GitHub</a></li>
     </ul>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

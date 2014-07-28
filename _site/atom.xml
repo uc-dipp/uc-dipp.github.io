@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>DiPP</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2014-07-28T12:00:42-05:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Data in Public Policy</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Announcing our new website!</title>
+   <link href="http://hyde.getpoole.com/2014/07/28/announcing-our-new-website/"/>
+   <updated>2014-07-28T00:00:00-05:00</updated>
+   <id>http://hyde.getpoole.com/2014/07/28/announcing-our-new-website</id>
+   <content type="html">&lt;div class=&quot;blog-post&quot;&gt;
+	&lt;h3&gt;Announcing the Hack Harris Website!&lt;/h3&gt;
+	&lt;p&gt;Hack Harris is excited to announce the launch of its new &lt;a href=&quot;index.html&quot;&gt;website&lt;/a&gt;, featuring information about the organization (finally!), recommended resources on data science and public policy, pictures of cute animals, and a beautiful new &lt;a href=&quot;index.html&quot;&gt;blog&lt;/a&gt;. Check it out &lt;a href=&quot;index.html&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+	&lt;p&gt;For immediate release. Press inquiries, etc.: &lt;br/&gt;
+		&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hack Harris&lt;br/&gt;
+		&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1155 E 60th St&lt;br/&gt;
+		&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chicago, IL 60637&lt;/p&gt;
+&lt;/div&gt;</content>
+ </entry>
+ 
+
+</feed>
