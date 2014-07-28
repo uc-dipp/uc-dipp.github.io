@@ -75,6 +75,11 @@ html {
   color: #fff;
 }
 
+.sidebar img:hover {
+	opacity: 0.9;
+}
+
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
@@ -109,7 +114,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top: 1rem;
     left:   1rem;
   }
 }
@@ -128,7 +133,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48rem) {
   .content {
-    max-width: 38rem;
+    max-width: 40rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -155,14 +160,14 @@ a.sidebar-nav-item:focus {
   }
   .layout-reverse .content {
     margin-left: 2rem;
-    margin-right: 20rem;
+    margin-right: 18rem;
   }
 }
 
 @media (min-width: 64rem) {
   .layout-reverse .content {
     margin-left: 4rem;
-    margin-right: 22rem;
+    margin-right: 20rem;
   }
 }
 

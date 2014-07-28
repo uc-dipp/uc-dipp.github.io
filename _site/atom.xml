@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>DiPP</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2014-07-28T12:00:42-05:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <title>Data in Public Policy</title>
+ <link href="http://uc-dipp.github.io/atom.xml" rel="self"/>
+ <link href="http://uc-dipp.github.io/"/>
+ <updated>2014-07-28T16:02:17-05:00</updated>
+ <id>http://uc-dipp.github.io</id>
  <author>
    <name>Data in Public Policy</name>
    <email></email>
@@ -13,10 +13,21 @@
 
  
  <entry>
-   <title>Announcing our new website!</title>
-   <link href="http://hyde.getpoole.com/2014/07/28/announcing-our-new-website/"/>
+   <title>Help us make our website!</title>
+   <link href="http://uc-dipp.github.io/2014/07/28/help-us-make-our-website/"/>
    <updated>2014-07-28T00:00:00-05:00</updated>
-   <id>http://hyde.getpoole.com/2014/07/28/announcing-our-new-website</id>
+   <id>http://uc-dipp.github.io/2014/07/28/help-us-make-our-website</id>
+   <content type="html">&lt;p&gt;All of YOU are DiPP. So show your DiPP love and devotion by helping to build the website. It&amp;#39;s built with Jekyll and Poole on &lt;a href=&quot;https://github.com/uc-dipp/uc-dipp.github.io&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If that means nothing to you, fear not. Just &lt;a href=&quot;http://github.com&quot;&gt;sign up for a free GitHub account&lt;/a&gt;, &lt;a href=&quot;mailto:hackharris14@gmail.com&quot;&gt;shoot us your username&lt;/a&gt;, and we&amp;#39;ll add you to the project and give you some pointers on how to get started. If you can Google &amp;quot;how to change font colors in HTML,&amp;quot; you can contribute.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Announcing our new website!</title>
+   <link href="http://uc-dipp.github.io/2014/07/28/announcing-our-new-website/"/>
+   <updated>2014-07-28T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/2014/07/28/announcing-our-new-website</id>
    <content type="html">&lt;div class=&quot;blog-post&quot;&gt;
 	&lt;h3&gt;Announcing the Hack Harris Website!&lt;/h3&gt;
 	&lt;p&gt;Hack Harris is excited to announce the launch of its new &lt;a href=&quot;index.html&quot;&gt;website&lt;/a&gt;, featuring information about the organization (finally!), recommended resources on data science and public policy, pictures of cute animals, and a beautiful new &lt;a href=&quot;index.html&quot;&gt;blog&lt;/a&gt;. Check it out &lt;a href=&quot;index.html&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
