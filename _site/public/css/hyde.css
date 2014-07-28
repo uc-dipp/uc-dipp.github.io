@@ -73,7 +73,7 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  opacity: 0.7;
+  opacity: 0.75;
   transition: opacity 0.25s;
 }
 
@@ -112,6 +112,10 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+}
+
+.sidebar-nav-item.active a {
+	opacity: 1;
 }
 
 /* Sticky sidebar
