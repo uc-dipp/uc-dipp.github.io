@@ -3,7 +3,7 @@ layout: page
 title: Hack Harris
 ---
 
-Hack Harris is here to help you wrangle your worst procrastination habits and *slay* your most nagging data fears. Welcome to a new kind of summer productivity: **Hack Harris in the Summer.**
+Hack Harris is here to help you wrangle your worst procrastination habits and slay your most nagging data fears. Welcome to a new kind of summer productivity: **Hack Harris in the Summer.**
 
 **What:** Weekly data hack night for the policy-oriented*  
 **Your hosts:** Hack Harris and Data in Public Policy  
@@ -16,7 +16,7 @@ Hack Harris is here to help you wrangle your worst procrastination habits and *s
 
 It’s easy to talk about wanting to learn. It’s harder to put your butt in a chair and do it. Hack Harris in the Summer is a public commitment to be productive for a couple of hours a week. We’ll teach you what we know, and we’ll help you find resources for the rest of it. 
 
-If you’ve ever wanted to learn some data skills (or if you ever want a job), this is your chance to commit to learning them, in a community of like-minded and supportive fellow travelers. Bring your questions and your doubts. Bring some skills of your own you’d like to teach, or projects you need help on. 
+If you’ve ever wanted to learn some data skills (or if you ever want a job), this is your chance to commit to learning them, in a community of *like-minded* and supportive fellow travelers. Bring your questions and your doubts. Bring some skills of your own you’d like to teach, or projects you need help on. 
 
 You don't have to commit to coming every week (though we'd love it if you did). Just show up when it's convenient for you.
 
