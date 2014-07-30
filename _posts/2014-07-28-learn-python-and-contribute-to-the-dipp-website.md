@@ -23,3 +23,5 @@ If that means nothing to you, fear not. Just sign up for a free GitHub account, 
 
 Thanks and see you Wednesday,
 Jonathan and Lara
+
+* For those who don't read all their emails super closely, HaHa is the accepted alternative name for Hack Harris. All thanks go to Sarah Sajewski for the coining.
