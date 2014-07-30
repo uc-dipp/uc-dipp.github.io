@@ -2,7 +2,6 @@
 layout: post
 title: HAHA LateX
 comments: true
-permalink: help-us-make-our-website
 ---
 
 Hello lovelies,
