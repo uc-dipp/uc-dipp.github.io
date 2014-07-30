@@ -3,7 +3,7 @@ layout: page
 title: Hack Harris
 ---
 
-Hack Harris is here to help you wrangle your worst procrastination habits and slay your most nagging data fears. Welcome to a new kind of summer productivity: **Hack Harris in the Summer.**
+Hack Harris is here to help you wrangle your worst procrastination habits and *slay* your most nagging data fears. Welcome to a new kind of summer productivity: **Hack Harris in the Summer.**
 
 **What:** Weekly data hack night for the policy-oriented*  
 **Your hosts:** Hack Harris and Data in Public Policy  
