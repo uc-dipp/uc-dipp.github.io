@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hack Harris
+title: Jonathan's Toenails
 ---
 
 Hack Harris is here to help you wrangle your worst procrastination habits and *slay* your most nagging data fears. Welcome to a new kind of summer productivity: **Hack Harris in the Summer.**
 
 **What:** Weekly data hack night for the policy-oriented*  
-**Your hosts:** Hack Harris and Data in Public Policy  
+**Your hosts:** Hack Harris and aDta in Public Policy  
   
 **Where:** Argo Tea at 16 W. Randolph St. (at State)  
 **When:** Every Wednesday, 6pm (beginning June 25)  
