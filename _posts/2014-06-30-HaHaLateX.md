@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HAHA LateX
+title: HaHa LateX
 comments: true
 ---
 
