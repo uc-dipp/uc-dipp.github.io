@@ -22,6 +22,7 @@ If that means nothing to you, fear not. Just sign up for a free GitHub account, 
 (4) If you've read this far, thanks so much. As your reward, here's a cute animal curated personally for you by the greatest cute-animals-on-the-Internet curator of all, Adriana Ciccone: <http://i.imgur.com/mC2nvAH.jpg>
 
 Thanks and see you Wednesday,
+
 Jonathan and Lara
 
 \* For those who don't read all their emails super closely, HaHa is the accepted alternative name for Hack Harris. All thanks go to Sarah Sajewski for the coining.
