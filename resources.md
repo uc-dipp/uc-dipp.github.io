@@ -4,6 +4,7 @@ title: Data Resources
 ---
 
 [General coding resources](#resources)  
+[Software](#software)
 [R](#r)  
 [Python](#python)  
   
@@ -17,6 +18,19 @@ Have a resource to add? [Let us know!](mailto:hackharris14@gmail.com)
 - [Meta Fun](https://www.codeschool.com/courses/try-git): Learn GitHub!
 - [Learn at your own pace](https://www.coursera.org/courses?orderby=upcoming&stats=upcoming&cats=cs-ai,cs-programming,cs-systems,cs-theory,economics,socsci,stats): Coursera CS, statistics, econ, and social science classes
 - [Learn at your own pace](https://www.edx.org/course-list/allschools/allsubjects/allcourses):  All EdX classes
+
+---
+<a name="software"></a>
+## Software
+
+| Resource | Description | For what you can use it | Where you can find it | Additional software | Tutorials | Notes |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+Carto DB | Software to display data in maps online | Display data geographically, online, so you can share. | https://cartodb.com/signup | None |  | Free, save maps online
+OpenRefine | Software to clean data easily. | Clean datasets quickly. | http://openrefine.org/download.html | None |  | Very useful and powerful, need tutorials to learn.
+QGIS | Open, free version of Arc GIS for geomapping. | Make cool maps, seem super smart. | http://www.kyngchaos.com/software/qgis | GDAL, Matplotlib  (found on the download website) | http://www.qgistutorials.com/en/index.html	
+Infogr.am | Tool to create interactive inforgraphics | Visual pleasure. | http://infogr.am/ | None |  | 
+Datawrapper | Tool to create embeddable tables. | When you hate Excel. | https://datawrapper.de/ | None | http://docs.datawrapper.de/en/tutorial/	 | Made in Germany (for newspaper journalists), so you know you're getting the best tables money (free) can buy. 
+
 
 ---
 <a name="r"></a>
