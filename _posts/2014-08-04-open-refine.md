@@ -2,6 +2,7 @@
 layout: post
 title: OpenRefine at Wednesday's Hack Harris!
 comments: true
+category: haha
 ---
 
 It was wonderful seeing new faces at last week's Hack Harris! Welcome to the hippest club in town, folks. And thank you to the HaHa contingent who battled the Lolla crowds to attend the mapping learnathon (masterfully organized by the inimitable and apparently indefatigable Matt Gee) on Saturday. 
