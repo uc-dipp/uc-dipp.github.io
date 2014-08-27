@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Hack Harris potluck on Sept 24 for new students, returning students, and alums!
 comments: true
 category: haha
