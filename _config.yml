@@ -11,6 +11,7 @@ permalink:        pretty
 title:            'Data in Public Policy'
 tagline:          'Data in Public Policy'
 description:      'Data in Public Policy (DiPP) is a student organization at the <a href="http://harrisschool.uchicago.edu" target="_blank">Harris School</a> focused on the intersection of data and public policy.'
+hahadescription:	'Hack Harris, an initiative of Data in Public Policy, is a group of data-oriented policy students at the <a href="http://harrisschool.uchicago.edu" target="_blank">Harris School</a> interested in ways to use data analysis and computer programming for public policy.'
 url:              http://uc-dipp.github.io
 baseurl:          /
 author:
