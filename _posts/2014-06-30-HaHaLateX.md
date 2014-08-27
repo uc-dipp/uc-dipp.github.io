@@ -2,7 +2,6 @@
 layout: post
 title: HaHa LateX
 comments: true
-haha: true
 category: haha
 ---
 
