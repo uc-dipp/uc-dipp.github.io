@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Upcoming events of interest to Hack Harris and DiPP!
 comments: true
 category: haha
