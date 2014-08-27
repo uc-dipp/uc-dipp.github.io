@@ -199,13 +199,22 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-/*  background-color: #800000;  uchicago maroon */
-	background-color: #22C5F0;  /* dipp blue */
+  background-color: #800000;  uchicago maroon */
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
+  color: #800000;
+}
+
+/* hack harris */
+.theme-base-haha .sidebar {
+  background-color: #22C5F0; /* haha blue */
+}
+.theme-base-haha .content a,
+.theme-base-haha .related-posts li a:hover {
   color: #008CD2;
 }
+
 
 /* Orange */
 .theme-base-09 .sidebar {
