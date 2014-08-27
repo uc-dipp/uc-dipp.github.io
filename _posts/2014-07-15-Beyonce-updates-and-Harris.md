@@ -3,6 +3,7 @@ layout: post
 title: Beyonce updates and Hack Harris
 comments: true
 permalink: Beyonce
+category: haha
 ---
 (1) Via Adriana, a mesmerizing data visualization of a random NYC taxicab's day: <http://nyctaxi.herokuapp.com/> The underlying data was FOIL'd (NY state version of FOIA) and is here: <http://chriswhong.com/open-data/foil_nyc_taxi/> 
 
