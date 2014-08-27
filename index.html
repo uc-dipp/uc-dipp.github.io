@@ -8,6 +8,7 @@ title: Home
 
 <div class="posts">
   {% for post in site.posts %}
+  {% unless post.category == 'haha' %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -19,6 +20,7 @@ title: Home
 
     {{ post.content }}
   </div>
+  {% endunless %}
   {% endfor %}
 </div>
 
