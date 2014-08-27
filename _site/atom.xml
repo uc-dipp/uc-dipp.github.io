@@ -4,13 +4,65 @@
  <title>Data in Public Policy</title>
  <link href="http://uc-dipp.github.io/atom.xml" rel="self"/>
  <link href="http://uc-dipp.github.io/"/>
- <updated>2014-08-04T11:06:12-05:00</updated>
+ <updated>2014-08-27T17:51:43-05:00</updated>
  <id>http://uc-dipp.github.io</id>
  <author>
    <name>Data in Public Policy</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>OpenRefine at Wednesday's Hack Harris!</title>
+   <link href="http://uc-dipp.github.io/2014/08/04/open-refine/"/>
+   <updated>2014-08-04T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/2014/08/04/open-refine</id>
+   <content type="html">&lt;p&gt;It was wonderful seeing new faces at last week&amp;#39;s Hack Harris! Welcome to the hippest club in town, folks. And thank you to the HaHa contingent who battled the Lolla crowds to attend the mapping learnathon (masterfully organized by the inimitable and apparently indefatigable Matt Gee) on Saturday. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This week at Hack Harris we&amp;#39;re going to continue on with OpenRefine&lt;/strong&gt;, which we got a great intro to on Saturday. But worry not if you couldn&amp;#39;t make it this weekend: We&amp;#39;ll be starting over at the very beginning on Wednesday (@ 6pm, the Argo Tea at 16 W. Randolph). &lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s some stuff to play around with, if you want, before Wednesday: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://openrefine.org/download.html&quot;&gt;Download OpenRefine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;We&amp;#39;re 100 percent stealing &lt;a href=&quot;https://github.com/dssg/data-challenges/tree/master/ChicagoCityOfLearning&quot;&gt;DSSG&amp;#39;s data challenge&lt;/a&gt;. We&amp;#39;ll use these data sets on Wednesday. &lt;/li&gt;
+&lt;li&gt;Take a look at this &lt;a href=&quot;http://hughstimson.org/2012/04/16/playlist-data-mining/&quot;&gt;intro to the cluster tool in OpenRefine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&amp;#39;ve still got a lot of summer Hack Harris nights, so let us know if there&amp;#39;s anything you want to learn or work on and we&amp;#39;ll be sure to incorporate that into an upcoming hack night. If there are any events you think would be interesting to HaHa / DiPP, pass those along and we could try to organize a group to go together. &lt;/p&gt;
+
+&lt;p&gt;See you Wednesday!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learn Python and Contribute to the DiPP Website!</title>
+   <link href="http://uc-dipp.github.io/2014-07-28-learn-python-and-contribute-to-the-dipp-website.md"/>
+   <updated>2014-07-28T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/learn-python-and-contribute-to-the-dipp-website</id>
+   <content type="html">&lt;p&gt;Hello lovelies, &lt;/p&gt;
+
+&lt;p&gt;(1) This week&amp;#39;s HaHa* is one not to be missed. If Jonathan&amp;#39;s and my presence isn&amp;#39;t enough of a draw, we&amp;#39;ll also be teaching you intro data exploration in Python! We&amp;#39;ll grab a few exercises from this book: &lt;a href=&quot;http://greenteapress.com/thinkstats/thinkstats.pdf&quot;&gt;http://greenteapress.com/thinkstats/thinkstats.pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To sum: Learn Python at HaHa, Wed. @ 6pm, Argo Tea at 16 W. Randolph &lt;/p&gt;
+
+&lt;p&gt;(2) DiPP has a website! &lt;a href=&quot;http://uc-dipp.github.io/&quot;&gt;Check us out&lt;/a&gt; — aren&amp;#39;t we looking pretty? +1,000 to last week&amp;#39;s HaHa attendees for getting it off the ground. &lt;/p&gt;
+
+&lt;p&gt;Jonathan and I may write your snarky weekly HaHa updates, but all of YOU are DiPP. So show your DiPP love and devotion by helping to build the website. It&amp;#39;s built with Jekyll and Poole on GitHub: &lt;a href=&quot;https://github.com/uc-dipp/uc-dipp.github.io&quot;&gt;https://github.com/uc-dipp/uc-dipp.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If that means nothing to you, fear not. Just sign up for a free GitHub account, shoot me or Jonathan your username, and we&amp;#39;ll add you to the project and give you some pointers on how to get started. If you can Google &amp;quot;how to change font colors in HTML,&amp;quot; you can contribute.&lt;/p&gt;
+
+&lt;p&gt;(3) DiPP has a Twitter: &lt;a href=&quot;http://twitter.com/uchicagodipp&quot;&gt;http://twitter.com/uchicagodipp&lt;/a&gt; Recently this thing called &amp;quot;my paying job&amp;quot; has gotten in the way of maintaining it as well I&amp;#39;d like, so please send me links! &lt;/p&gt;
+
+&lt;p&gt;(4) If you&amp;#39;ve read this far, thanks so much. As your reward, here&amp;#39;s a cute animal curated personally for you by the greatest cute-animals-on-the-Internet curator of all, Adriana Ciccone: &lt;a href=&quot;http://i.imgur.com/mC2nvAH.jpg&quot;&gt;http://i.imgur.com/mC2nvAH.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks and see you Wednesday,&lt;/p&gt;
+
+&lt;p&gt;Jonathan and Lara&lt;/p&gt;
+
+&lt;p&gt;* For those who don&amp;#39;t read all their emails super closely, HaHa is the accepted alternative name for Hack Harris. All thanks go to Sarah Sajewski for the coining.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Help us make our website!</title>
@@ -36,6 +88,58 @@
 		&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1155 E 60th St&lt;br/&gt;
 		&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chicago, IL 60637&lt;/p&gt;
 &lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Beyonce updates and Hack Harris</title>
+   <link href="http://uc-dipp.github.io/Beyonce"/>
+   <updated>2014-07-15T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/Beyonce-updates-and-Harris</id>
+   <content type="html">&lt;p&gt;(1) Via Adriana, a mesmerizing data visualization of a random NYC taxicab&amp;#39;s day: &lt;a href=&quot;http://nyctaxi.herokuapp.com/&quot;&gt;http://nyctaxi.herokuapp.com/&lt;/a&gt; The underlying data was FOIL&amp;#39;d (NY state version of FOIA) and is here: &lt;a href=&quot;http://chriswhong.com/open-data/foil_nyc_taxi/&quot;&gt;http://chriswhong.com/open-data/foil_nyc_taxi/&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;(2) You all apparently love shortcuts. So in the interest of being service-y, Jonathan will dish out more of what you love tomorrow at Hack Harris. If there&amp;#39;s interest, he will also dive into git and get everyone set up on github and we&amp;#39;ll talk about using the terminal.&lt;/p&gt;
+
+&lt;p&gt;(3) Here&amp;#39;s a secret. All the cool kids refer to Hack Harris as HaHa. If you want to be a cool kid, I suggest that you begin doing the same.&lt;/p&gt;
+
+&lt;p&gt;Thanks,
+Lara and Jonathan&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hack Harris 7.23 v4 final FINAL</title>
+   <link href="http://uc-dipp.github.io/2014/07/14/v4-final/"/>
+   <updated>2014-07-14T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/2014/07/14/v4-final</id>
+   <content type="html">&lt;p&gt;Have you heard this new buzzword &amp;quot;collaboration&amp;quot;? What does it mean? And what is &amp;quot;version control&amp;quot;? Is that like when I save my document under a different name every time I make an edit? And THEN does your computer always crash when using tracked changes in Word? I know mine does. Then I have to go back to version 1 and start over. &lt;em&gt;(That&amp;#39;s why I pasted a picture of a cute rabbit into version 1, to give me the strength to keep going.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Some people are talking about a website that lets you work on documents with others without worrying about version control -- even work AT THE SAME TIME. And you always have old versions of all files so you can&amp;#39;t accidentally overwrite last year&amp;#39;s budget. It&amp;#39;s also rumored to give +100,000 hacker points. &lt;em&gt;Can this be real?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, why doesn&amp;#39;t Hack Harris have a website? Can we fix this? Together?&lt;/p&gt;
+
+&lt;p&gt;Bring your laptops. See you Wednesday!&lt;/p&gt;
+
+&lt;p&gt;Yours in collaboration,&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.averagemarrieddad.com/wp-content/uploads/2012/10/heman-and-she-ra.jpg&quot; alt=&quot;Alt text&quot; title=&quot;Lara and Jonathan&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>HaHa LateX</title>
+   <link href="http://uc-dipp.github.io/2014/06/30/HaHaLateX/"/>
+   <updated>2014-06-30T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/2014/06/30/HaHaLateX</id>
+   <content type="html">&lt;p&gt;Hello lovelies,&lt;/p&gt;
+
+&lt;p&gt;Please don&amp;#39;t get blown away by the wind tonight... so that you&amp;#39;ll be able to come to Hack Harris this Wednesday @ 6pm. Last week some ne&amp;#39;er-do-wells destroyed my old econometrics problem sets as we learned LaTeX. We also talked DIPP logo and branding (thanks for attending, Andi!). &lt;/p&gt;
+
+&lt;p&gt;Participation in planned activities is optional, but, this week I&amp;#39;ve had requests to go over IPython notebook and Excel. So you can hear me chatter about those two things or bring your own work.&lt;/p&gt;
+
+&lt;p&gt;Hope to see you this week! As always, any questions, comments or suggestions should go to &lt;a href=&quot;mailto:jgiuffrida@uchicago.edu&quot;&gt;jgiuffrida@uchicago.edu&lt;/a&gt; or &lt;a href=&quot;mailto:larakattan@uchicago.edu&quot;&gt;larakattan@uchicago.edu&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Lara and Jonathan&lt;/p&gt;
+</content>
  </entry>
  
 
