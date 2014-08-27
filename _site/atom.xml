@@ -4,7 +4,7 @@
  <title>Data in Public Policy</title>
  <link href="http://uc-dipp.github.io/atom.xml" rel="self"/>
  <link href="http://uc-dipp.github.io/"/>
- <updated>2014-08-27T18:40:38-05:00</updated>
+ <updated>2014-08-27T18:41:28-05:00</updated>
  <id>http://uc-dipp.github.io</id>
  <author>
    <name>Data in Public Policy</name>
@@ -31,6 +31,19 @@
    <content type="html">&lt;p&gt;I think we set a new HaHa attendance record this past week! Thank you to all the Harris alums who joined us to learn SQL from Jonathan. And to repeat (or maybe state for the first time): Alums, friends, and frenemies are very much welcome at all Hack Harris events. &lt;/p&gt;
 
 &lt;p&gt;This week we&amp;#39;ll dip our toes into JavaScript. HTML organizes web pages, CSS makes them pretty, and JS makes them interactive. Want to make fun interactive maps &lt;a href=&quot;http://derekeder.com/searchable_map_template/&quot;&gt;like this&lt;/a&gt; with open data? Well, you&amp;#39;ll need to know JavaScript. So come get an intro to it this Wednesday @ 5:30 pm at 16 W. Randolph (Argo Tea). &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Announcing our new website!</title>
+   <link href="http://uc-dipp.github.io/new-website"/>
+   <updated>2014-08-11T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/puns-and-python</id>
+   <content type="html">&lt;p&gt;Is the air a bit lighter, is gravity working a little harder, today or is it just me? Who knows, but the best way to deal with summer&amp;#39;s halfway point and the existential dread that comes with it is to be productive at this week&amp;#39;s Hack Harris! Come learn more Python, and if you&amp;#39;re lucky maybe you&amp;#39;ll be there when Sarah coins a new data-related pun :)&lt;/p&gt;
+
+&lt;p&gt;Optional things to do before Wednesday:
+* &lt;a href=&quot;http://ipython.org/install.html&quot;&gt;Install IPython Notebook&lt;/a&gt;
+* &lt;a href=&quot;https://wiki.python.org/moin/BeginnersGuide/NonProgrammers&quot;&gt;Check out some beginner tutorials&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
