@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: OpenRefine at Wednesday's Hack Harris!
 comments: true
 category: haha
