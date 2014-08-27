@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Learn Python and Contribute to the DiPP Website!
 comments: true
 permalink: 2014-07-28-learn-python-and-contribute-to-the-dipp-website.md
