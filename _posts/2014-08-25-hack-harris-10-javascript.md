@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hack Harris \# 10\: JavaScript, and alums and friends always welcome!
+title: Hack Harris 10 - JavaScript, and alums and friends always welcome!
 comments: true
+category: haha
 ---
 I think we set a new HaHa attendance record this past week! Thank you to all the Harris alums who joined us to learn SQL from Jonathan. And to repeat (or maybe state for the first time): Alums, friends, and frenemies are very much welcome at all Hack Harris events. 
 
