@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Beyonce updates and Hack Harris
 comments: true
 permalink: Beyonce
