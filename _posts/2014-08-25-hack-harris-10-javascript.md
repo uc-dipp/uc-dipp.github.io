@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Hack Harris 10 - JavaScript, and alums and friends always welcome!
 comments: true
 category: haha
