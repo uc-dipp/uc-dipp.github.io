@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: HaHa LateX
 comments: true
 category: haha
