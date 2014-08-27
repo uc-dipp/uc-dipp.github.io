@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Announcing our new website!
 permalink: new-website
 comments: false
