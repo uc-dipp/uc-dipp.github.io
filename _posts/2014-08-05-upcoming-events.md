@@ -2,6 +2,7 @@
 layout: post
 title: Upcoming events of interest to Hack Harris and DiPP!
 comments: true
+category: haha
 ---
 (1) Thursday 8/21, @ 6.30pm: [Quality Storytelling on the Internet with Northwestern's Knight Lab] (http://www.meetup.com/Data-Science-Chicago/events/197145262/)
 
