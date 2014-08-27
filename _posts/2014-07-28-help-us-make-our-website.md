@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-haha
 title: Help us make our website!
 comments: true
 permalink: help-us-make-our-website
