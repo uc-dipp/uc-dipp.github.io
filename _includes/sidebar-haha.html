@@ -1,32 +1,48 @@
 <div class="sidebar">
   <div class="container sidebar">
 	<div class="sidebar-about">
-      <a href="/" class="logo"><img src="/logo.png" width="100rem" height="100rem" /></a>
+      <p class="logo-haha"><a href="/haha">Hack Harris</a></p>
       <p class="lead">{{ site.hahadescription }}</p>
     </div>
 
     <ul class="sidebar-nav">
       
+      <li class="sidebar-nav-item{% if page.title == "Hack Harris" %} active{% endif %}">
+        <a href="/haha">Hack Harris</a>
+      </li>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+      <!-- haha pages -->
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "haha" %}
+          {% if node.layout == "haha" and node.title != 'Hack Harris' %}
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
               <a href="{{ node.url }}">{{ node.title }}</a>
             </li>
           {% endif %}
         {% endif %}
       {% endfor %}
+      <br/>
 
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+      <!-- dipp pages -->
+      <li class="sidebar-nav-item active">
         <a href="/">Data in Public Policy</a>
       </li>
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" and node.title != 'Home' %}
+            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+              <a href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <br/>
       <li class="sidebar-nav-item">Find us on <a href="{{ site.github.repo }}">GitHub</a></li>
     </ul>
     <a href="/atom.xml" style="float:right;"><img src="/resources/feed.png" height="32rem" width="32rem" /></a>
