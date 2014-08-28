@@ -4,9 +4,10 @@ title: Data Resources
 ---
 
 [General coding resources](#resources)  
-[Software](#software)
+[Software](#software)  
 [R](#r)  
 [Python](#python)  
+[JavaScript](#js)
   
 Have a resource to add? [Let us know!](mailto:hackharris14@gmail.com)
 
@@ -98,10 +99,38 @@ Datawrapper | Tool to create embeddable tables. | When you hate Excel. | https:/
 ### Online Classes
 - [MIT: A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/)
 
+---
+<a name="js"></a>
+## JavaScript
+### What is JavaScript?
+- Make web pages interactive. 
+- Truly cross-platform (works in same browser across all operating systems), interpreted by your browser.
+- Events happen, JS reacts (e.g. click, hover).
 
+### Cool, I wrote some JS, where do I put it? 
+- In `<script>` tags in your HTML, after `</body>`.
 
+### Where can I learn JS?
+- <http://www.w3schools.com/js/>
+- [Codecademy](http://www.codecademy.com/en/tracks/javascript)
 
+## Where can I practice JS? 
+- <http://jsfiddle.net/>
 
+## An intro to JS syntax:
+- Comment with `//` at beginning of line or `/*` and `*/`
+- End all executable lines with `;` 
+- Variables can hold lots of different things; declare with `var`
+    - Dynamic, meaning you can change what kind of thing they hold halfway through a program
+    - Scope: vars declared within a function are local; vars declared outside of a function are global; vars given to a function as parameters are local
+- Declare a function with `function()`
+    - Spit out something with `return` keyword
+- Object with attributes:
+    - `var backpack = {color:”blue flowers”, weight:30, contents:”books”}`
+- Arrays can hold objects, variables, functions, other arrays. Wow!
+
+## What else can you do with JS?
+- [jQuery](http://jquery.com) library lets you easily move around and change elements on the page
 
 
 
