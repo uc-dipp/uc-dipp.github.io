@@ -3,12 +3,55 @@ layout: default
 title: Home
 ---
 
+<h1>Data in Public Policy</h1>
 
 
+<p>Data in Public Policy (DIPP) is a student organization at the <a href="http://harrisschool.uchicago.edu">University of Chicago Harris School for Public Policy</a> founded to build analytical skills and expertise among Harris students in open-source data platforms, foster a professional relationship with the data and tech community in Chicago, and to generally serve as a resource for Harris students interested in the intersection of data and public policy.  Created informally in Fall 2012, DIPP launched as an official Harris Student Organization in Fall 2013.</p>
+
+<h3>Our Activities</h3>
+<div class="group">
+  <div class="activity">
+    <h3><a href="/haha">Hack Harris</a></h3>
+    <p>We host a weekly policy hack night at Harris, ideal for beginners who want to learn tools for analyzing policy data and building programs and websites. All students welcome, especially if it's your first time. </p>
+  </div>
+  <div class="activity">
+    <h3><a href="/events">Events</a></h3>
+    <p>We host events featuring people prominent in the data and policy fields in Chicago.</p>
+    </div>
+  <div class="activity">
+    <h3><a href="/externships">Student Externships</a></h3>
+    <p>We pair interested policy students with local Chicago organizations that need help collecting, analyzing, and visualizing data.</p>
+  </div>
+  <div class="activity">
+    <h3><a href="/careers">Career Assistance</a></h3>
+    <p>We organize and promote career events, alumni panels, and part-time and full-time job opportunities to help students find employment at the intersection of data and public policy, both during and after their time in school.</p>
+  </div>
+  <div class="activity">
+    <h3><a href="/newsletter">Newsletter</a></h3>
+    <p>We send a weekly newsletter to the <a href="https://lists.uchicago.edu/web/subscribe/dipp">DiPP mailing list</a> announcing DiPP events, Data in the News, Hack Harris tutorials and workshops, job opportunities, and other ways to get involved.</p>
+  </div>
+</div>
+<hr>
+
+<!-- paginator only if it isn't the top posts -->
+<a name="posts"></a>
+{% if paginator.previous_page %}
+  <div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}#posts">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/#posts">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}#posts">Newer</a>
+    {% endif %}  
+  </div>
+{% endif %}
 
 <div class="posts">
-  {% for post in site.posts %}
-  {% unless post.category == 'haha' %}
+  {% for post in paginator.posts %}
   <div class="post">
     <h2 class="post-title">
       <a href="{{ post.url }}">
@@ -16,25 +59,30 @@ title: Home
       </a>
     </h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">
+      {% if post.eventdate %}
+        {{ post.eventdate | date_to_long_string }}
+      {% else %}
+        {{ post.date | date_to_string }}
+      {% endif %}
+    </span>
 
     {{ post.content }}
   </div>
-  {% endunless %}
   {% endfor %}
 </div>
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}#posts">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
+      <a class="pagination-item newer" href="/#posts">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}#posts">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>

@@ -4,13 +4,31 @@
  <title>Data in Public Policy</title>
  <link href="http://uc-dipp.github.io/atom.xml" rel="self"/>
  <link href="http://uc-dipp.github.io/"/>
- <updated>2014-08-27T20:10:45-05:00</updated>
+ <updated>2014-08-29T16:19:04-05:00</updated>
  <id>http://uc-dipp.github.io</id>
  <author>
    <name>Data in Public Policy</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>DiPP Newsletter 1</title>
+   <link href="http://uc-dipp.github.io/newsletter/2014/08/29/newsletter-1/"/>
+   <updated>2014-08-29T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/newsletter/2014/08/29/newsletter-1</id>
+   <content type="html">&lt;p&gt;This is a newsletter post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DiPP Potluck</title>
+   <link href="http://uc-dipp.github.io/event/2014/08/29/dipp-potluck/"/>
+   <updated>2014-08-29T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/event/2014/08/29/dipp-potluck</id>
+   <content type="html">&lt;p&gt;This is an event post. The date shown is the event date, not the post date.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hack Harris potluck on Sept 24 for new students, returning students, and alums!</title>
