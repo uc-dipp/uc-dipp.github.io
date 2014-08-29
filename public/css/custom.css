@@ -1,0 +1,19 @@
+/* custom css for the whole page */
+
+/* make dipp sidebar more readable */
+.theme-base-08 .sidebar {
+	color: rgba(0,0,0,1);
+}
+.sidebar {
+	overflow-y: auto;
+}
+
+.sidebar .logo img {
+	margin: 0 auto 1rem auto;
+}
+.sidebar .lead {
+	font-size: 0.85rem;
+}
+
+
+
