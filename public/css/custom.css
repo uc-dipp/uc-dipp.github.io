@@ -1,5 +1,76 @@
 /* custom css for the whole page */
 
+/* executive board */
+.boardmember {
+	float:left;
+	margin: 0 20px 20px 0;
+	padding: 10px 10px 0 10px;
+	border: 3px solid #800000;
+	border-radius: 10px;
+	float: left;
+	height: 425px;
+	width: 210px;
+}
+
+.boardmember img {
+	border-radius: 50%;
+	width: 184px;
+}
+
+.boardmember .caption {
+	font-size: 0.65rem;
+}
+.boardmember .caption b {
+	font-size: 0.9rem;
+}
+
+/* activities */
+.activity {
+	float: left;
+	width: 210px;
+	height: 300px;
+	border: 3px solid #ccc;
+	padding: 10px;
+	margin: 0 10px 10px 0;
+	border-radius: 25px;
+}
+.activity h3 {
+	text-align: center;
+	margin-top: 5px;
+}
+.activity p {
+	font-size: 0.75em;
+}
+
+
+/* clearfix */
+.group:before, .group:after { 
+	content: "";
+	display: table; 
+}
+.group:after {
+	clear: both; 
+}
+.group {
+	zoom: 1; /* IE6&7 */ 
+}
+
+/* buttons look awful */
+button {
+	font-size: 1em;
+	background-color: #800000;
+	color: #eee;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	opacity: 0.9;	
+	outline: none;
+}
+button:hover {
+	opacity: 1;
+}
+
 /* make dipp sidebar more readable */
 .theme-base-08 .sidebar {
 	color: rgba(0,0,0,1);
