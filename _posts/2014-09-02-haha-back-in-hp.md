@@ -1,6 +1,6 @@
 ---
 layout: post-haha
-title: Hack Harris moves to Harris, finally! This week, 6pm, room 140C.
+title: Hack Harris moves to Harris, finally! Wed. 9/3, 6pm, room 140C.
 comments: true
 category: haha
 ---
