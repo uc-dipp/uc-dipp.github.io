@@ -8,11 +8,13 @@ title: Hack Harris
 
 Data is useless. This is perhaps an overly dramatic statement, but data by itself does nothing, can solve no problems, tells us no stories. But data paired with the right tools, cut and reshaped in a smart way, can be an awesome asset for policy practitioners. Hack Harris is a place for aspiring policy people with a passion for data to learn those tools in a hands-on way.
 
-We host a weekly hack night, <b>on Wednesdays at 4:30pm in the Harris building</b>, for all Harris students, alums, friends and other interested UChicago community members. 
+We host a weekly hack night, <b>on Wednesdays at 4:30pm* in the Harris building</b>, for all Harris students, alums, friends and other interested UChicago community members. 
 
 A hack night, for those who don’t love jargon, is a loose term for a time when people get together to work on things, together. It can be as collaborative as you'd like it to be. You don't need to have skills in anything data oriented, but you should want to acquire some skills (e.g. learn R or Python or Stata). We'll help you do the learning. 
 
 Beginners and experts both highly encouraged to attend! Just bring your laptop and some enthusiasm. You can come every week, or drop in whenever you have a project to work on or a question that needs answering. Bring your ideas, or even your problem sets! We'd love to help you learn R, LaTex, and anything else that you might need to complete your problem sets, for any course.
 
 <p>If you have questions or concerns please contact [Jonathan Giuffrida](mailto:jgiuffrida@uchicago.edu) or [Lara Kattan](mailto:larakattan@uchicago.edu).
+
+<small>* Hack nights will be at 6pm on 9/3, 9/10, and 9/17. On 9/24 there will be a Hack Harris potluck at 6pm instead. Once classes start, hack night will move to 4:30pm.</small> 
 
