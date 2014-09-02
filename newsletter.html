@@ -6,23 +6,3 @@ title: Newsletter
 <p>We send a weekly newsletter announcing DiPP events, Data in the News, Hack Harris tutorials and workshops, job opportunities, and other ways to get involved.</p>
 
 <button type="button" onclick="window.location.href='https://lists.uchicago.edu/web/subscribe/dipp';">Sign Up</button>
-
-<h3>Previous Issues</h3>
-
-<div class="posts">
-  {% for post in site.categories.newsletter %}
-  <hr>
-  <div class="post">
-    <h2 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
