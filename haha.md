@@ -6,21 +6,13 @@ title: Hack Harris
 
 
 
-Hack Harris is here to help you wrangle your worst procrastination habits and *slay* your most nagging data fears. Welcome to a new kind of summer productivity: **Hack Harris in the Summer.**
+Data is useless. This is perhaps an overly dramatic statement, but data by itself does nothing, can solve no problems, tells us no stories. But data paired with the right tools, cut and reshaped in a smart way, can be an awesome asset for policy practitioners. Hack Harris is a place for aspiring policy people with a passion for data to learn those tools in a hands-on way.
 
-**What:** Weekly data hack night for the policy-oriented*  
-**Your hosts:** Hack Harris and Data in Public Policy  
-  
-**Where:** Argo Tea at 16 W. Randolph St. (at State)  
-**When:** Every Wednesday, 6pm (beginning June 25)  
-  
-**Who:** Harris students, alums, and friends  
-**To bring:** Laptop, enthusiasm  
+We host a weekly hack night, <b>on Wednesdays at 4:30pm in the Harris building</b>, for all Harris students, alums, friends and other interested UChicago community members. 
 
-It’s easy to talk about wanting to learn. It’s harder to put your butt in a chair and do it. Hack Harris in the Summer is a public commitment to be productive for a couple of hours a week. We’ll teach you what we know, and we’ll help you find resources for the rest of it. 
+A hack night, for those who don’t love jargon, is a loose term for a time when people get together to work on things, together. It can be as collaborative as you'd like it to be. You don't need to have skills in anything data oriented, but you should want to acquire some skills (e.g. learn R or Python or Stata). We'll help you do the learning. 
 
-If you’ve ever wanted to learn some data skills (or if you ever want a job), this is your chance to commit to learning them, in a community of *like-minded* and supportive fellow travelers. Bring your questions and your doubts. Bring some skills of your own you’d like to teach, or projects you need help on. 
+Beginners and experts both highly encouraged to attend! Just bring your laptop and some enthusiasm. You can come every week, or drop in whenever you have a project to work on or a question that needs answering. Bring your ideas, or even your problem sets! We'd love to help you learn R, LaTex, and anything else that you might need to complete your problem sets, for any course.
 
-You don't have to commit to coming every week (though we'd love it if you did). Just show up when it's convenient for you.
+<p>If you have questions or concerns please contact [Jonathan Giuffrida](mailto:jgiuffrida@uchicago.edu) or [Lara Kattan](mailto:larakattan@uchicago.edu).
 
-<small>\* For those who don't love jargon, a hack night is a loose term for a time when people get together to work on things, together. It can be as collaborative as you'd like it to be. You don't need to have skills in anything data oriented, but you should want to acquire some skills (e.g. learn [R](/resources/#r) or [Python](/resources/#python) or Stata). We'll help you do the learning.</small>
