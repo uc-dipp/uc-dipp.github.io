@@ -75,15 +75,20 @@ button:hover {
 .theme-base-08 .sidebar {
 	color: rgba(0,0,0,1);
 }
+/* this looks so crappy on Windows that it's worth not using
 .sidebar {
 	overflow-y: auto;
 }
+*/
 
 .sidebar .logo img {
-	margin: 0 auto 1rem auto;
+	margin: 0 auto 0.2rem auto;
 }
 .sidebar .lead {
 	font-size: 0.85rem;
+}
+.sidebar {
+	padding: 0.3rem 1rem;
 }
 
 
