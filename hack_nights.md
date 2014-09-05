@@ -1,6 +1,6 @@
 ---
 layout: haha
-title: Hack Harris Blog
+title: Hack Nights
 ---
 
 
