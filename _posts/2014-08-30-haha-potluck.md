@@ -2,7 +2,8 @@
 layout: post-haha
 title: Hack Harris potluck on Sept 24 for new students, returning students, and alums!
 comments: true
-category: haha
+categories: haha event
+eventdate: '2014-09-24 18:00:00 -0500'
 ---
 
 If you don't want to think about how summer is ending, ignore this post. But if you like putting things on your calendar weeks in advance, make sure to note the Hack Harris beginning of the school year potluck. 

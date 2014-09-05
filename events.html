@@ -3,23 +3,38 @@ layout: page
 title: Events
 ---
 
-DiPP events offer a chance to learn about policy-relevant data topics and to get to know the the DiPP community.  Come join us! 
+<p>DiPP events offer a chance to learn about policy-relevant data topics and to get to know the Harris data community.  Come join us!</p>
 
+
+<div class="group">
+{% for post in site.categories.event %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventdate %}{{post.eventdate | date: '%s'}}{% endcapture %}
+{% if eventdate >= nowunix %}
+  <div class="event{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
+    <div class="transparency">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.eventdate | date_to_long_string }}</p>
+    </div>
+  </div>
+{% endif %}
+{% endfor %}
+</div>
+<br>
+<br>
 <h3>Previous Events</h3>
 
-<div class="posts">
-  {% for post in site.categories.event %}
-  <hr>
-  <div class="post">
-    <h2 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-
-    <span class="post-date">{{ post.eventdate | date_to_long_string }}</span> <!-- event date, not post date -->
-
-    {{ post.content }}
+<div class="group">
+{% for post in site.categories.event %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventdate %}{{post.eventdate | date: '%s'}}{% endcapture %}
+{% if eventdate < nowunix %}
+  <div class="event{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
+    <div class="transparency">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.eventdate | date_to_long_string }}</p>
+    </div>
   </div>
-  {% endfor %}
+{% endif %}
+{% endfor %}
 </div>

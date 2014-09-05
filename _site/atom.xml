@@ -4,13 +4,25 @@
  <title>Data in Public Policy</title>
  <link href="http://uc-dipp.github.io/atom.xml" rel="self"/>
  <link href="http://uc-dipp.github.io/"/>
- <updated>2014-09-04T13:58:23-05:00</updated>
+ <updated>2014-09-04T23:46:50-05:00</updated>
  <id>http://uc-dipp.github.io</id>
  <author>
    <name>Data in Public Policy</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>DiPP Welcome Back Potluck</title>
+   <link href="http://uc-dipp.github.io/event/2014/09/04/dipp-potluck/"/>
+   <updated>2014-09-04T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/event/2014/09/04/dipp-potluck</id>
+   <content type="html">&lt;h4&gt;6pm, Promontory Point Park, Bring food to share&lt;/h4&gt;
+
+&lt;p&gt;While the rest of society said goodbye to summer this weekend, we have another month left. Make it count!  
+Come join us at the DiPP Welcome Back Potluck.  We’ll have a couple small grills going, so bring stuff to grill and side dishes to share.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hack Harris moves to Harris, finally! Wed. 9/3, 6pm, room 140C.</title>
@@ -26,24 +38,10 @@
  </entry>
  
  <entry>
-   <title>DiPP Potluck</title>
-   <link href="http://uc-dipp.github.io/event/2014/08/29/dipp-potluck/"/>
-   <updated>2014-08-29T00:00:00-05:00</updated>
-   <id>http://uc-dipp.github.io/event/2014/08/29/dipp-potluck</id>
-   <content type="html">&lt;p&gt;DiPP Welcome Back Potluck&lt;/p&gt;
-
-&lt;p&gt;September 16th 6pm, Promontory Point Park, Bring food to share&lt;/p&gt;
-
-&lt;p&gt;While the rest of society said goodbye to summer this weekend, we have another month left. Make it count!&lt;br&gt;
-Come join us at the DiPP Welcome Back Potluck.  We’ll have a couple small grills going, so bring stuff to grill and side dishes to share.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Hack Harris potluck on Sept 24 for new students, returning students, and alums!</title>
-   <link href="http://uc-dipp.github.io/haha/2014/08/26/haha-potluck/"/>
-   <updated>2014-08-26T00:00:00-05:00</updated>
-   <id>http://uc-dipp.github.io/haha/2014/08/26/haha-potluck</id>
+   <link href="http://uc-dipp.github.io/haha/event/2014/08/30/haha-potluck/"/>
+   <updated>2014-08-30T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/haha/event/2014/08/30/haha-potluck</id>
    <content type="html">&lt;p&gt;If you don&amp;#39;t want to think about how summer is ending, ignore this post. But if you like putting things on your calendar weeks in advance, make sure to note the Hack Harris beginning of the school year potluck. &lt;/p&gt;
 
 &lt;p&gt;It&amp;#39;ll be on Wednesday (duh), 9/24 in Hyde Park at 6pm. We&amp;#39;ll remind you again in a few weeks. This will be during orientation week and incoming students are invited. Alums, if you dare to return to Hyde Park, we&amp;#39;d very much welcome your beautiful faces, too! &lt;/p&gt;
@@ -58,6 +56,22 @@ Come join us at the DiPP Welcome Back Potluck.  We’ll have a couple small gril
    <content type="html">&lt;p&gt;I think we set a new HaHa attendance record this past week! Thank you to all the Harris alums who joined us to learn SQL from Jonathan. And to repeat (or maybe state for the first time): Alums, friends, and frenemies are very much welcome at all Hack Harris events. &lt;/p&gt;
 
 &lt;p&gt;This week we&amp;#39;ll dip our toes into JavaScript. HTML organizes web pages, CSS makes them pretty, and JS makes them interactive. Want to make fun interactive maps &lt;a href=&quot;http://derekeder.com/searchable_map_template/&quot;&gt;like this&lt;/a&gt; with open data? Well, you&amp;#39;ll need to know JavaScript. So come get an intro to it this Wednesday @ 5:30 pm at 16 W. Randolph (Argo Tea). &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Brett Goldstein, Former CIO for the City of Chicago</title>
+   <link href="http://uc-dipp.github.io/event/2014/08/25/brett-goldstein/"/>
+   <updated>2014-08-25T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/event/2014/08/25/brett-goldstein</id>
+   <content type="html">&lt;h4 id=&quot;12---1:20pm,-harris-room-289a,-lunch-supplied&quot;&gt;12 - 1:20pm, Harris Room 289A, Lunch supplied&lt;/h4&gt;
+
+&lt;p&gt;Join us for a conversation on &lt;strong&gt;predictive analytics&lt;/strong&gt; with &lt;strong&gt;Brett Goldstein, former Chief Data Officer and Chief Information Officer for the City of Chicago&lt;/strong&gt;. In 2011, Mayor Rahm Emanuel appointed Brett to be Chicago&amp;#39;s first municipal Chief Data Officer in 2011. In 2012, Brett also assumed the role of Chief Information Officer. In these roles, he led successful efforts to use data to improve the way city government serves its residents and established one of the largest open data programs in the country. &lt;/p&gt;
+
+&lt;p&gt;Brett will discuss his path to becoming Chicago&amp;#39;s Chief Data Officer, how government agencies are using data today and what the future of data analytics holds for the public sector. &lt;strong&gt;The event will include lunch&lt;/strong&gt;, is open to all Harris students and is sponsored by the &lt;strong&gt;Data in Public Policy (DiPP)&lt;/strong&gt; student group.&lt;/p&gt;
+
+&lt;p&gt;Prior to becoming Chicago&amp;#39;s Chief Data Officer and Chief Information Officer, Brett was an early employee of Open Table, a Chicago beat cop, and the director of the Chicago Police Department&amp;#39;s Predictive Analytics Group. Brett 
+currently serves as the inaugural Senior Fellow in Urban Science at the Harris School.&lt;/p&gt;
 </content>
  </entry>
  

@@ -6,6 +6,9 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <!-- show event date if it's an event, otherwise post date -->
   <span class="post-date">{% if page.eventdate %}{{ page.eventdate | date_to_long_string }}{% else %}{{ page.date | date_to_string }}{% endif %}</span>
+  {% if page.image %}
+  <div><img src="/resources/images/bbq.jpg" ></div>
+  {% endif %}
   {{ content }}
 </div>
 {% if page.comments == true %} <!-- for the life of me i don't know why this condition only works if reversed -->

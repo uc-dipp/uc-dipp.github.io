@@ -6,7 +6,28 @@ title: Home
 <h1>Data in Public Policy</h1>
 
 
-<p>Data in Public Policy (DIPP) is a student organization at the <a href="http://harrisschool.uchicago.edu">University of Chicago Harris School for Public Policy</a> founded to build analytical skills and expertise among Harris students in open-source data platforms, foster a professional relationship with the data and tech community in Chicago, and to generally serve as a resource for Harris students interested in the intersection of data and public policy.  Created informally in Fall 2012, DIPP launched as an official Harris Student Organization in Fall 2013.</p>
+<p>We are a student organization at the <a href="http://harrisschool.uchicago.edu">University of Chicago Harris School for Public Policy</a> founded to build data skills and analytical expertise among Harris students.</p>
+
+<h3>Upcoming Events</h3>
+<div class="group">
+{% assign counter = 0 %}
+{% for post in site.categories.event %}
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {% capture eventdate %}{{post.eventdate | date: '%s'}}{% endcapture %}
+  {% if eventdate > nowunix %}
+    {% if counter < 4 %}
+    <div class="event{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
+      <div class="transparency">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="post-date">{{ post.eventdate | date_to_long_string }}</p>
+      </div>
+    </div>
+    {% assign counter=counter | plus:1 %}
+  {% endif %}
+{% endif %}
+{% endfor %}
+</div>
+<hr>
 
 <h3>Our Activities</h3>
 <div class="group">
@@ -26,13 +47,15 @@ title: Home
     <h3><a href="/careers">Career Assistance</a></h3>
     <p>We organize career events and alumni panels and locate part-time and full-time job opportunities for students at the intersection of data and public policy, both during and after their time in school.</p>
   </div>
-  <div class="activity">
-    <h3><a href="/newsletter">Newsletter</a></h3>
-    <p>We send a weekly newsletter to the <a href="https://lists.uchicago.edu/web/subscribe/dipp">DiPP mailing list</a> announcing DiPP events, Data in the News, Hack Harris tutorials and workshops, job opportunities, and other ways to get involved.</p>
-  </div>
 </div>
+<br>
+<a class="twitter-timeline" href="https://twitter.com/UChicagoDiPP" data-widget-id="493807740431515648">Tweets by @UChicagoDiPP</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 <hr>
 
+<h2>All DiPP News</h2>
+<br>
 <!-- paginator only if it isn't the top posts -->
 <a name="posts"></a>
 {% if paginator.previous_page %}
@@ -89,5 +112,4 @@ title: Home
   {% endif %}
 </div>
 
-    <a class="twitter-timeline" href="https://twitter.com/UChicagoDiPP" data-widget-id="493807740431515648">Tweets by @UChicagoDiPP</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    
