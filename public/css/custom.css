@@ -41,7 +41,16 @@
 .activity p {
 	font-size: 0.75em;
 }
-
+.activity:hover {
+	background-color: #ccc;
+	cursor: pointer;
+}
+.activity a:hover{
+	text-decoration: none;
+}
+.activity a:active{
+	text-decoration:none;
+}
 /* images */
 .post div>img {
 	float:right;
@@ -147,9 +156,9 @@ button:hover {
 .event:hover .transparency {
 	opacity: 0.3;
 }
-.event:hover a:hover{
+.event a:hover{
 	text-decoration: none;
 }
-.event:hover a:active {
+.event a:active {
 	text-decoration: none;
 }
