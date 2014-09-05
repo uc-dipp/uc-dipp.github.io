@@ -153,7 +153,7 @@ button:hover {
 
 /* hover actions */
 .event:hover .transparency {
-	opacity: 0.3;
+	opacity: 0.4;
 }
 .event a:hover{
 	text-decoration: none;
