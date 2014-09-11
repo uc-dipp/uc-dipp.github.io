@@ -1,6 +1,6 @@
 ---
 layout: post-haha
-title: Hack Harris 12: OpenRefine and Regex
+title: Hack Harris 12 - OpenRefine and Regex
 comments: true
 category: haha
 ---
