@@ -1,6 +1,6 @@
-.hidden {
+.member .hidden {
   color: #AC1F24;
 }
-.target {
+.member .target {
   cursor: pointer;
 }
