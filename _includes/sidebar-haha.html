@@ -21,7 +21,7 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "haha" and node.title != 'Hack Harris' %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}{% if page.category == 'member' and node.url == '/members/' %} active{%endif %}">
               <a href="{{ node.url }}">{{ node.title }}</a>
             </li>
           {% endif %}
