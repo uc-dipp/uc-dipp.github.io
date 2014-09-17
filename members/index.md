@@ -16,3 +16,4 @@ Hack Harris members
 <p><a href="xtang">Xiaorui Tang</a></p>
 <p><a href="bdonnelly">Bridgit Donnelly</a></p>
 <p><a href="jpheisel">J.P. Heisel</a></p>
+<p><a href="ssajewski">Sarah Sajewski</a></p>
