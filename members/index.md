@@ -10,3 +10,4 @@ Hack Harris members
 <p><a href="lkattan">Lara Kattan</a></p>
 <p><a href="pleow">Patrick Leow</a></p>
 <p><a href="awidianto">Andi Widianto</a></p>
+<p><a href="awarofka">Alex Warofka</a></p>
