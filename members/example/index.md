@@ -32,6 +32,12 @@ Some elements:
     
     <p>This text is in a paragraph</p>
 
+* `<br>` makes a line break.
+
+    Some text
+    <br>
+    Some more text
+
 * `<em>` Makes the text inside italic
 
     This text has <em>italic</em> words
@@ -53,6 +59,10 @@ Some elements:
 
     <h2>Title 1<h2>
     <h4>Title 4</h4>
+
+
+A good HTML reference can be found <a href="http://www.w3schools.com/html/">here</a>.
+A great free online course in HTML and CSS can be found <a href="http://www.codecademy.com/tracks/web">here</a>.
 
 ##Fun with CSS
 CSS provides your webpage with *style*. You should have your CSS in an external file in your member folder - and link it at the bottom of your index.html file as follows:
