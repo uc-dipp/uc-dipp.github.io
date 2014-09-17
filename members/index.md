@@ -11,3 +11,4 @@ Hack Harris members
 <p><a href="pleow">Patrick Leow</a></p>
 <p><a href="awidianto">Andi Widianto</a></p>
 <p><a href="awarofka">Alex Warofka</a></p>
+<p><a href="adpolitsky">Aaron Politsky</a></p>
