@@ -15,3 +15,4 @@ Hack Harris members
 <p><a href="tsands">Trey Sands</a></p>
 <p><a href="xtang">Xiaorui Tang</a></p>
 <p><a href="bdonnelly">Bridgit Donnelly</a></p>
+<p><a href="jpheisel">J.P. Heisel</a></p>
