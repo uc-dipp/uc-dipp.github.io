@@ -47,6 +47,7 @@ Some elements:
 * `<img src="bbq.jpg">` inserts the image located at "/bbq.jpg" (in your member folder). You don't need to close this tag
 
     <img src="bbq.jpg" height="50px" width="50px">
+    <a href="https://drive.google.com/folderview?id=0B67xyTocshK8WFV2WlNhQnFyX1E&usp=sharing">Here</a> are some images of DiPP - just copy in the URL to one you like!
 
 * `<h1>` - `<h6>` Makes the text into title text (bigger). You can use any number 1-6: 1 is largest
 
