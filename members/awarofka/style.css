@@ -6,3 +6,8 @@ img.alignleft {
 .alignleft {
 	float: left;
 }
+
+a:link, a:visited, a:hover, a:active {
+	font-weight: bold;
+	color: #008CD1;
+}
