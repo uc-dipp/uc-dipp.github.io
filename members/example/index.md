@@ -69,6 +69,7 @@ selector {
 
 `selector` is one of your HTML elements, like `div` or `a`, **without** the `< >`. `property` is a property like `color`, which changes the font color. `value` is something like `#AC1F24`, which is red.
 
+A good CSS reference can be found <a href="http://www.w3schools.com/cssref/">here</a>.
 
 
 <!-- this is a comment: it won't be shown -->
