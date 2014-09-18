@@ -1,17 +1,17 @@
-.alignleft {
+#intro .alignleft {
 	float: left;
 }
 
-img.alignleft {
+#intro img.alignleft {
 	float: left;
 	margin: 0 1em 1em 0;
 }
 
 #intro a:link, #intro a:visited, #intro a:hover, #intro a:active {
 	font-weight: bold;
-	color: #aaa;
+	color: #008CD2;
 }
 
 #intro {
-	
+
 }
