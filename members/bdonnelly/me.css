@@ -1,4 +1,4 @@
-.body{
+.member body{
   color: #696969;
   }
 
@@ -6,6 +6,6 @@
   color: #4682B4;
 }
 
-.a:link{
+.member a:link{
   color: #FF4500;
 }
