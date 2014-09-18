@@ -1,3 +1,7 @@
+body {
+	color: #aaa;
+}
+
 .alignleft {
 	float: left;
 }
