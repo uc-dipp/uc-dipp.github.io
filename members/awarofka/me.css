@@ -1,7 +1,3 @@
-body {
-	color: #aaa;
-}
-
 .alignleft {
 	float: left;
 }
@@ -11,11 +7,11 @@ img.alignleft {
 	margin: 0 1em 1em 0;
 }
 
-a:link a:visited a:hover a:active {
+#intro a:link, #intro a:visited, #intro a:hover, #intro a:active {
 	font-weight: bold;
 	color: #aaa;
 }
 
 #intro {
-  color: #fff;
+	
 }
