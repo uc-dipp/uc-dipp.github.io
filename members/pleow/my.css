@@ -5,3 +5,7 @@ p.ex1 {
 p.ex2 {
     font: italic bold 12px/30px Georgia, serif;
 }
+
+p {
+    padding-left: 2cm;
+}
