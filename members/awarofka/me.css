@@ -15,3 +15,7 @@ a:link a:visited a:hover a:active {
 	font-weight: bold;
 	color: #aaa;
 }
+
+#intro {
+  color: #fff;
+}
