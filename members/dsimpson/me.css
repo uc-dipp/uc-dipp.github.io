@@ -3,3 +3,10 @@ layout: member-haha
 title: David Simpson
 category: member
 ---
+
+selector{
+  .member div{
+    color:#AC1F24;
+  }
+}
+<link rel="stylesheet" href="me.css">
