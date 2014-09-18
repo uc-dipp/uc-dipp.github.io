@@ -4,6 +4,6 @@
 .target .sample {
   color: #AC1F24;
 }
-.target a {
+.target a:hover {
   font-size: 1.5em;
 }

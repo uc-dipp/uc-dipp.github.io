@@ -80,6 +80,32 @@ selector {
 
 `selector` is one of your HTML elements, like `div` or `a`, **without** the `< >`. `property` is a property like `color`, which changes the font color. `value` is something like `#AC1F24`, which is red.
 
+You can also use classes and IDs as your selectors. These are set in your HTML as follows:
+
+```
+<div class="target">
+    <p>Some text</p>
+    <p id="this-one">The text I want to change</p>
+    <p>Some other text</p>
+</div>
+```
+
+And selected as follows:
+
+```
+.target {
+  color: #AC1F24;
+}
+.target p {
+    color: #999;
+}
+#this-one {
+    color: blue;
+}
+```
+
+This will make all text red, then make any text inside paragraphs gray, then make the text inside the paragraph with the ID of "this-one" blue.
+
 Here are some CSS properties you can change:
 
 * `color: #AC1F24;` sets the text color using a <a href="http://colorrrs.com/">hexadecimal</a> value.
@@ -87,6 +113,12 @@ Here are some CSS properties you can change:
 * `background-color: #eee;` makes the element's background light gray
 * `margin-left: 20px;` adds a margin, or space, of 20 pixels to the left of the element. You can also use `margin-top`, `margin-right`, and `margin-bottom`
 * `cursor: pointer;` makes the mouse a pointer (hand) when it is over the element. A value of `default` is the regular arrow
+
+You can also set CSS to take effect when you're doing something to the element by adding to the last selector, e.g.
+
+* `a:hover {}` will select links when they're hovered over
+* `a:active {}` will select links when the mouse is clicked on them
+* `a:visited {}` will select links that have been clicked on before
 
 A good CSS reference can be found <a href="http://www.w3schools.com/cssref/">here</a>.
 
