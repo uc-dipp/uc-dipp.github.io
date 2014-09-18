@@ -17,3 +17,4 @@ Hack Harris members
 <p><a href="bdonnelly">Bridgit Donnelly</a></p>
 <p><a href="jpheisel">J.P. Heisel</a></p>
 <p><a href="ssajewski">Sarah Sajewski</a></p>
+<p><a href="pfogel">Peter Fogel</a></p>
