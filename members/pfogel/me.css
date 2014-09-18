@@ -1,2 +1,6 @@
 .Michigan {
-  color: #5B9BD5}
+  color: #5B9BD5;
+  font-size: 1.5em;
+  margin-left: 20px;
+  cursor: pointer
+}
