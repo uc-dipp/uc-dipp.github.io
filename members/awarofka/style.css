@@ -1,10 +1,10 @@
+.alignleft {
+	float: left;
+}
+
 img.alignleft {
 	float: left;
 	margin: 0 1em 1em 0;
-}
-
-.alignleft {
-	float: left;
 }
 
 a:link a:visited a:hover a:active {
