@@ -9,3 +9,7 @@
 .member a:link{
   color: #87CEEB;
 }
+
+.member a:visited {
+  color:#87CEFA;
+}
