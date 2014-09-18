@@ -2,3 +2,11 @@ p {
  border-style: solid; 
  border-color: #d35400 #7d502f;
  }
+
+p.ex1 {
+    font: 15px garamond, sans-serif;
+}
+
+p.ex2 {
+    font: italic bold 12px/30px Georgia, serif;
+}
