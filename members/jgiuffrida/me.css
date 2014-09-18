@@ -1,7 +1,9 @@
-.hidden {
-  color: #AC1F24;
-}
 .target {
   cursor: pointer;
 }
-
+.target .sample {
+  color: #AC1F24;
+}
+.target a {
+  font-size: 1.5em;
+}
