@@ -20,4 +20,4 @@ Hack Harris members
 <p><a href="pfogel">Peter Fogel</a></p>
 <p><a href="jzhu">Julia Zhu</a></p>
 <p><a href="CElmquist">Candace Elmquist</a></p>
-<p><a href="smwhite213">Shannon White</a></p>
+<p><a href="smwhite">Shannon White</a></p>
