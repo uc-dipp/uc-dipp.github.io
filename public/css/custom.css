@@ -110,6 +110,10 @@ button:hover {
 	padding: 0.3rem 1rem;
 }
 
+#mc_embed_signup label {
+	color: #eee;
+}
+
 
 /* events */
 .event {
