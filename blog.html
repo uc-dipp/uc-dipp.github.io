@@ -6,7 +6,7 @@ title: DiPP Blog
 <div class="group">
 {% assign counter = 0 %}
 {% for post in site.categories.blog %}
-  {% if counter < 4 %}
+  {% if counter < 10 %}
   <div class="blog panel{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
     <div class="transparency">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
