@@ -115,8 +115,8 @@ button:hover {
 }
 
 
-/* events */
-.event {
+/* panels */
+.panel {
 	float: left;
 	width: 48%;
 	margin: 0.3rem;
@@ -126,7 +126,11 @@ button:hover {
 	min-height: 200px;
 }
 
-.event .transparency {
+.panel.blog {
+	width:98%;
+}
+
+.panel .transparency {
 	width: 100%;
 	height: 100%;
 	margin: 0;
@@ -137,31 +141,34 @@ button:hover {
 	min-height: 200px;
 }
 
-.event h2, .event p {
+.panel h2, .panel p {
 	padding: 1rem 0.5rem 0rem;
 	margin-top: 0;
 	text-shadow: 0 0 2px #bbb;
 }
 
-.event p {
+.panel p {
 	font-size: 1.2rem;
 }
 
-.event .post-date {
+.panel .post-date {
 	color: #000;
 }
 
-.event.no-image {
+.panel.no-image {
 	background-image: url('/resources/images/logo-background.jpg');
 }
 
 /* hover actions */
-.event:hover .transparency {
+.panel:hover .transparency {
 	opacity: 0.4;
 }
-.event a:hover{
+.panel.blog:hover .transparency {
+	opacity: 0.5;
+}
+.panel a:hover{
 	text-decoration: none;
 }
-.event a:active {
+.panel a:active {
 	text-decoration: none;
 }

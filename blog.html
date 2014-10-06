@@ -1,0 +1,22 @@
+---
+layout: page
+title: DiPP Blog
+---
+
+<div class="group">
+{% assign counter = 0 %}
+{% for post in site.categories.blog %}
+  {% if counter < 4 %}
+  <div class="blog panel{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
+    <div class="transparency">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-date">{% if post.excerpt %}<em>{{ post.excerpt }}</em><br>{% endif %}{{ post.date | date_to_long_string }}
+      </p>
+    </div>
+  </div>
+  {% assign counter=counter | plus:1 %}
+  {% endif %}
+{% endfor %}
+</div>
+<hr>
+<button style="margin-left: 40%;" type="button" onclick="window.location.href='/archive';">Earlier posts</button>

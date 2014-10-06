@@ -4,7 +4,7 @@
  <title>Data in Public Policy</title>
  <link href="http://uc-dipp.github.io/atom.xml" rel="self"/>
  <link href="http://uc-dipp.github.io/"/>
- <updated>2014-10-05T22:39:52-05:00</updated>
+ <updated>2014-10-05T23:33:56-05:00</updated>
  <id>http://uc-dipp.github.io</id>
  <author>
    <name>Data in Public Policy</name>
@@ -28,6 +28,29 @@
 &lt;p&gt;Come get inspired for a HaHa project, learn who to ask for help with a program, or get a brief intro to a new program.&lt;/p&gt;
 
 &lt;p&gt;When: October 7th 4:30-5:00 at the HaHa (Hack Harris Rm 289B)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/resources/images/speed-dataing.jpg&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First blog post!</title>
+   <link href="http://uc-dipp.github.io/blog/2014/10/05/first-blog-post/"/>
+   <updated>2014-10-05T00:00:00-05:00</updated>
+   <id>http://uc-dipp.github.io/blog/2014/10/05/first-blog-post</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;So many data tools, so little time!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introducing:-dipp-speed-data-ing&quot;&gt;Introducing: DiPP Speed Data-ing&lt;/h2&gt;
+
+&lt;p&gt;A chance to mingle with DiPP&amp;#39;s favorite data programs.&lt;/p&gt;
+
+&lt;p&gt;What: Five minute presentations (we will be strict on the time limit) on various DiPP members’ favorite hacks or data programs. &lt;/p&gt;
+
+&lt;p&gt;Come get inspired for a HaHa project, learn who to ask for help with a program, or get a brief intro to a new program.&lt;/p&gt;
+
+&lt;p&gt;When: October 7th 4:30-5:00 at the HaHa (Hack Harris Rm 289B)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/event/2014/10/07/Speed-Dataing/&quot;&gt;More information&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/resources/images/speed-dataing.jpg&quot;&gt;&lt;/p&gt;
 </content>

@@ -19,7 +19,7 @@ title: Home
   {% capture eventdate %}{{post.eventdate | date: '%s'}}{% endcapture %}
   {% if eventdate > nowunix %}
     {% if counter < 4 %}
-    <div class="event{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
+    <div class="panel{% if post.image %}" style="background-image: url('{{ post.image }}'); {% else %} no-image{% endif %}" onclick="window.location='{{ post.url }}';">
       <div class="transparency">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="post-date">{{ post.eventdate | date_to_long_string }}</p>
