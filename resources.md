@@ -1,5 +1,5 @@
 ---
-layout: haha
+layout: page
 title: Data Resources
 ---
 
@@ -9,7 +9,7 @@ title: Data Resources
 [Python](#python)  
 [JavaScript](#js)
   
-Have a resource to add? [Let us know!](mailto:hackharris14@gmail.com)
+Have a resource to add? [Go ahead!](https://github.com/uc-dipp/uc-dipp.github.io/edit/master/resources.md)
 
 ---
 <a name="resources"></a>
