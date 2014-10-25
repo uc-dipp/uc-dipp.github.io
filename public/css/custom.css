@@ -96,7 +96,7 @@ button:hover {
 	color: rgba(0,0,0,1);
 }
 
-this looks so crappy on Windows but whatever
+/* this looks so crappy on Windows but whatever */
 .sidebar {
 	overflow-y: auto;
 }
