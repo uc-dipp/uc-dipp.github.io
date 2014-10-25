@@ -95,10 +95,11 @@ button:hover {
 .theme-base-08 .sidebar {
 	color: rgba(0,0,0,1);
 }
-/* this looks so crappy on Windows that it's worth not using
+
+this looks so crappy on Windows but whatever
 .sidebar {
 	overflow-y: auto;
-} */
+}
 
 .sidebar .logo img {
 	margin: 0 auto 0.2rem auto;
