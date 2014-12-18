@@ -1,9 +1,9 @@
-.target {
+.body {
+  color: #000000;
   cursor: pointer;
+  margin-left: 20px;
 }
-.target .sample {
+.header {
   color: #AC1F24;
-}
-.target a:hover {
   font-size: 1.5em;
 }
