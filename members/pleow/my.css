@@ -1,0 +1,11 @@
+.member p.ex1 {
+    font: 15px Garamond, sans-serif;
+}
+
+p.ex2 {
+    font: italic bold 12px/30px Georgia, serif;
+}
+
+p {
+    padding-left: 2cm;
+}

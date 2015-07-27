@@ -1,0 +1,25 @@
+a {
+	color: #AC1F24;
+}
+
+.authors {
+	color: gray;
+	font-size: 12px;
+}
+
+.blog-post {
+	width: 60%;
+	background-color:#ddd;
+	border: 1px solid #B0C4DE;
+	box-shadow: 5px 5px 3px #666;
+	-moz-box-shadow: 5px 5px 3px #666;
+	-webkit-box-shadow: 5px 5px 3px #666;
+	border-radius: 15px;
+	padding: 10px 30px;
+}
+
+h3 {
+	color:#27ae60;
+	font-family:  Geneva, Tahoma, Verdana, sans-serif;
+}
+

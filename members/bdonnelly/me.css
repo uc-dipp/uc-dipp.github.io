@@ -1,0 +1,15 @@
+.member body{
+  color: #696969;
+  }
+
+.header{
+  color: #4682B4;
+}
+
+.member a:link{
+  color: #87CEFA;
+}
+
+.member a:visited {
+  color:#00BFFF;
+}
