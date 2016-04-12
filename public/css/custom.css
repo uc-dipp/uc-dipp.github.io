@@ -2,13 +2,12 @@
 
 /* executive board */
 .boardmember {
-	float:left;
+	float: center;
 	margin: 0 20px 20px 0;
 	padding: 10px 10px 0 10px;
 	border: 3px solid #800000;
 	border-radius: 10px;
-	float: left;
-	height: 200px;
+	height: 110px;
 	width: 210px;
 }
 
@@ -18,10 +17,10 @@
 }
 
 .boardmember .caption {
-	font-size: 0.65rem;
+	font-size: 0.85rem;
 }
 .boardmember .caption b {
-	font-size: 0.9rem;
+	font-size: 1.0rem;
 }
 
 /* activities */
